@@ -3,7 +3,7 @@ import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 
-public class  javaminiproject {
+public class  AgeCalculator {
     public static void main(String[] args) {
         if (args.length == 0) {
             System.out.println("Please provide your date of birth as a command-line argument in the format dd-MM-yyyy.");
